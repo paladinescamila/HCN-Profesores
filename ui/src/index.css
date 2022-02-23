@@ -1,0 +1,18 @@
+/* 1: Bootstrap framework includes */
+@import "bootstrap/dist/css/bootstrap.css";
+
+/* 2: Layout */
+@import "./theme/css/main.css";
+
+body {
+  background-color: #E5E5E5;
+  margin: 0;
+  font-family: Poppins, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

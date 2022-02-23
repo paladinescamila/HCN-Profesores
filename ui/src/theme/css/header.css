@@ -1,0 +1,22 @@
+.div-header {
+  background-color: #24A46D;
+  margin: 0;
+  padding: 0px 25px 0px 25px;
+  height: 60px;
+  border-bottom: 2px solid white;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+#kt-profile-dropdown {
+  border: 0;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  min-height: 4rem;
+}
